@@ -1,0 +1,4 @@
+﻿  LB3.2.cpp
+C:\Users\maksi\OneDrive\Рабочий стол\АтаСД\LB3.2\LB3.2.cpp(91,29): warning C4244: инициализация: преобразование "unsigned __int64" в "double", возможна потеря данных
+C:\Users\maksi\OneDrive\Рабочий стол\АтаСД\LB3.2\LB3.2.cpp(92,31): warning C4244: инициализация: преобразование "unsigned __int64" в "double", возможна потеря данных
+  LB3.2.vcxproj -> C:\Users\maksi\OneDrive\Рабочий стол\АтаСД\LB3.2\x64\Debug\LB3.2.exe
